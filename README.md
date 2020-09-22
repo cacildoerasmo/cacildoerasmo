@@ -6,7 +6,10 @@
                 HTML5, CSS3, JavaScript, Bootstrap, Materialize.           
              
              🔥 Back - end:
-                Php, Laravel.
+                Php.
+                
+             🔥 Base de dados:
+                Mysql.
                 
       🧨 Desktop: Java.
                 
