@@ -8,7 +8,7 @@
              🔥 Back - end:
                 Php, Laravel.
                 
-       🧨Desktop: Java(POO).
+      🧨 Desktop: Java.
                 
       🌱 Estudando atualmente: C++, Caml Light e Prolog.
       
