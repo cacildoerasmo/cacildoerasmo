@@ -42,7 +42,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-   https://camo.githubusercontent.com/b59a033b627153e421d7ea487a81e719b255143e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4074676d6172696e686f2d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f74676d6172696e686f      
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/cacildoerasmo) 
                 
 
 <!--
