@@ -1,7 +1,7 @@
 👋 Olá! Meu nome é Cacildo, atualmente estudando programação e desenvolvimento de páginas web responsivas. 
      Sou estudante do curso de Informática de Sistemas.
       
-      🎯 Skills:
+      🎯 My Skills:
              🔥 Front - end Developer:
                 HTML5, CSS3, JavaScript, Bootstrap, Materialize.           
              
