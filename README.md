@@ -42,7 +42,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/cacildomabunda.mabunda">
-  <img align="left" alt="Twitter" width="22px" src="https://www.iconfinder.com/icons/104461/twitter_icon" />
+  <img align="left" alt="Twitter" width="22px" src="https://www.iconfinder.com/icons/104461/twitter_icon.svg" />
 </a>
 
 [![Github Cacildo](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/cacildoerasmo) 
