@@ -42,7 +42,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a target="_blank" href="https://www.google.com/search?q=foto+twitter&sxsrf=ALeKk00FzTSk7L2r4KSoGi2nN-a-yqHoXw:1600785393635&tbm=isch&source=iu&ictx=1&fir=_jYkytELNxI95M%252CGlRRCFB_XbRHlM%252C_&vet=1&usg=AI4_-kQ4s0KEd0iHMpOZhFD4n2-le9C8qw&sa=X&ved=2ahUKEwin6f6l_vzrAhUWUxUIHcZEB0MQ9QF6BAgKEEg&biw=1242&bih=568#imgrc=y_6Z3dmjEp2YHM ">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Twitter" width="22px" src="" />
 </a>
               
             
