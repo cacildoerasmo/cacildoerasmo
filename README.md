@@ -43,8 +43,6 @@
 </a>
 
 
-<a href="http://twitter.com/share" class="twitter-share-button" data-text="Leia nossa newsletter do mês de Junho/2011!" data-count="horizontal" data-via="templateria" data-lang="pt">Tweet</a>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 [![Github Cacildo](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/cacildoerasmo) 
                 
