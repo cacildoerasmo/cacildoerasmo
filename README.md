@@ -28,6 +28,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+
+
   📫  Quer conversar comigo? ou me dar dicas? Pode me procurar nas seguintes redes socias abaixo:👇
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=849086557">
@@ -36,7 +38,7 @@
 <a target="_blank" href="mailto:cacildoerasmo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/aryxb">
+<a target="_blank" href="https://www.facebook.com/cacildomabunda.mabunda">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
               
