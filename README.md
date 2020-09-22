@@ -41,7 +41,7 @@
 <a target="_blank" href="https://www.facebook.com/cacildomabunda.mabunda">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/cacildomabunda.mabunda">
+<a target="_blank" href="https://www.twitter.com/@cacildoerasmo">
   <img align="left" alt="Twitter" width="22px" src="https://www.matrixgroup.net/snackoclock/2012/07/a-twitter-logo-cdn/" />
 </a>
 
