@@ -3,7 +3,7 @@
       
       🎯 My Skills:
              🔥 Front - end Developer:
-                HTML5, CSS3, JavaScript, Bootstrap, Materialize.           
+                HTML5, CSS3, JavaScript, Bootstrap.           
              
              🔥 Back - end:
                 Php.
