@@ -12,12 +12,8 @@
                 Mysql.
                 
       🧨 Desktop: Java.
-
-       Linguagens: Caml Light, Prolog e C++.
                 
       🌱 Estudando atualmente: Python e Java Web. 
-      
-      😉 Pretendo estudar: Kotlin.
       
       
       🚀 Linguagens e Ferramentas:
