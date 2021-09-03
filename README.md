@@ -31,6 +31,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacildoerasmo&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacildoerasmo&layout=compact)](https://github.com/cacildoerasmo/github-readme-stats)
+
 
 
   📫  Quer conversar comigo? Podes me procurar nas seguintes redes socias abaixo:👇
