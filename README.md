@@ -11,7 +11,7 @@
 
 # Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacildoerasmo&layout=radical)](https://github.com/cacildoerasmo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacildoerasmo&layout=compact)](https://github.com/cacildoerasmo/github-readme-stats)
 
 
 
