@@ -30,7 +30,7 @@
 
 
 
-  📫  Quer conversar comigo? ou me dar dicas? Podes me procurar nas seguintes redes socias abaixo:👇
+  📫  Quer conversar comigo? Podes me procurar nas seguintes redes socias abaixo:👇
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=849086557">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
